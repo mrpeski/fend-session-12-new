@@ -1,0 +1,12 @@
+
+html, body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: azure;
+}
+.container {
+    max-width: 600px;
+    margin: auto;
+}
+.heading {
+    color: brown
+}
